@@ -1,3 +1,4 @@
+# Code for mapping people to DNA sequences using STR analysis
 import sys
 import csv
 p = []
